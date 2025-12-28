@@ -108,5 +108,3 @@ GA/
 * Improved UI and user experience
 
 ---
-
-Just say the word 🚀
